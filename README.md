@@ -1,7 +1,3 @@
-Here’s a polished **GitHub project description** for your German flag design:
-
----
-
 # 🇩🇪 CSS Flag of Germany
 
 A simple **HTML + CSS project** that recreates the **national flag of Germany** using styled div elements. The design uses three horizontal stripes (black, red, yellow) stacked vertically, centered on the page.
